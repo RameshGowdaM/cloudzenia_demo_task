@@ -1,0 +1,12 @@
+{
+  "name": "cloudzenia-microservice",
+  "version": "1.0.0",
+  "description": "Cloudzenia Demo Microservice",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
